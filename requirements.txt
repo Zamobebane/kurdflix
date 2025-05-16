@@ -1,0 +1,5 @@
+streamlit
+stripe
+boto3
+streamlit-authenticator
+psycopg2-binary  # if using PostgreSQL
